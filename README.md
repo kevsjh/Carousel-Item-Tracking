@@ -1,7 +1,9 @@
 # Carousel-Item-Tracking
 To track desired item in Singapore Carousel with a min and max price
 
-#File use case
+#
+File use case
+
 lambda_function.py is the main source code. No changes needed to be done on this file
 
 inputDoc.py is used as the input file. Only change the content of this file item name, min price, max price to be tracked etc...
