@@ -2,7 +2,7 @@
 To track desired item in Singapore Carousel with a min and max price
 
 #
-File use case
+Files
 
 lambda_function.py is the main source code. No changes needed to be done on this file
 
@@ -10,7 +10,7 @@ inputDoc.py is used as the input file. Only change the content of this file item
 
 
 # 
-To run the system locally, only lambda_function.py and inputDoc.py is needed.
+To run the python script on system locally, only lambda_function.py and inputDoc.py is needed.
 You may need to perform pip install requests to install python requests module on the local machine if it doesn't exists 
 
 
