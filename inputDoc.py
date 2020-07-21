@@ -10,5 +10,5 @@ maxPrice=70
 
 #####Total number of result return################
 
-totalCount=100
+totalCount=10
 
